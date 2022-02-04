@@ -5,5 +5,5 @@ TI ADS1115 ADC example for FPGA (HDL)
 
 ## Very simple FSM control and interface
 
-
+![](img/high_speed_mode.PNG)
 
